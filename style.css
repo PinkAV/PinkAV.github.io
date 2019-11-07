@@ -67,11 +67,11 @@ ul li.active a{
 .btn{
     border: 1px solid #fff;
     padding: 10px 30px;
-    color: #00ffbf;
+    color: #fff;
     text-decoration: none;
 }
 .btn:hover{
-    background-color: #fff;
+    background-color: #00ffbf;
     color: #000;
     transition: 0.6s ease;
 }
